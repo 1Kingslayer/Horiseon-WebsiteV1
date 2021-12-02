@@ -1,6 +1,8 @@
 # Horiseon-WebsiteV1
 Horiseon website update V1
 
+#Link to site https://1kingslayer.github.io/Horiseon-WebsiteV1/
+
 ## Built with
 * HTML
 * CSS
